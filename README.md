@@ -1,1 +1,1 @@
-![Chris Moreton](keyboard.jpeg)
+![Chris Moreton](chrismoreton.png)
