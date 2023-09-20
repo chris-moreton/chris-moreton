@@ -1,1 +1,1 @@
-![https://www.golfingrecord.com](golfingrecord.png)
+[![Alt text](golfingrecord.png)](https://www.golfingrecord.com)
